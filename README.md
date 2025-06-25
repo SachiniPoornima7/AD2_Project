@@ -11,6 +11,7 @@ This is a cloud-native, microservice-based application to manage real-time parki
 
 
 ## 📊 Screenshots
-- ![Eureka Dashboard](![image](https://github.com/user-attachments/assets/7ba2df78-d9cb-492e-a51d-2d8cbebc6ac3))
+![image](https://github.com/user-attachments/assets/d9559b5e-8fe7-4ab7-99a2-54843bef9a43)
+
 
 
